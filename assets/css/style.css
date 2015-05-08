@@ -376,3 +376,14 @@ input {
 	margin-top: 30px;
 	letter-spacing: 1px;
 }
+
+.profilepic {
+	border-radius: 50%;
+}
+
+#i {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background: #2D2424;
+	color: wheat;
+}
