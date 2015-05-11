@@ -382,8 +382,9 @@ input {
 }
 
 #i {
+	color: rgb(72, 7, 7);
 	padding-top: 50px;
 	padding-bottom: 50px;
 	background: #2D2424;
-	color: wheat;
+	background-image: url('/assets/img/school.png');
 }
